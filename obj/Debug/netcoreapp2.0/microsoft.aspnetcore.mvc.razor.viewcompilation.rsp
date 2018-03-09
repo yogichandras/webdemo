@@ -1,0 +1,12 @@
+C:\Users\yogichandras\source\repos\DemoApp\DemoApp
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=DemoApp
+--content-root=C:\Users\yogichandras\source\repos\DemoApp\DemoApp
+--file=C:\Users\yogichandras\source\repos\DemoApp\DemoApp\Views\Home\About.cshtml
+--file=C:\Users\yogichandras\source\repos\DemoApp\DemoApp\Views\Home\Contact.cshtml
+--file=C:\Users\yogichandras\source\repos\DemoApp\DemoApp\Views\Home\Index.cshtml
+--file=C:\Users\yogichandras\source\repos\DemoApp\DemoApp\Views\Shared\Error.cshtml
+--file=C:\Users\yogichandras\source\repos\DemoApp\DemoApp\Views\Shared\_Layout.cshtml
+--file=C:\Users\yogichandras\source\repos\DemoApp\DemoApp\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\yogichandras\source\repos\DemoApp\DemoApp\Views\_ViewImports.cshtml
+--file=C:\Users\yogichandras\source\repos\DemoApp\DemoApp\Views\_ViewStart.cshtml
